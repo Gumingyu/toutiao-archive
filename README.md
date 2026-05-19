@@ -2,7 +2,7 @@
 
 这是 **头条英语角 · 词汇档案** 的静态网页项目，用来归档每一期新闻英语内容。每一期包含话题背景、核心词汇、重点句子、仿写框架、参考答案和总结，适合做长期积累和复习。
 
-主页面是 [`archive_viewer.html`](archive_viewer.html)。它是一个单文件静态网页，CSS、数据和 JavaScript 都写在这个 HTML 文件里，不需要安装依赖，也不需要构建。
+主页面是 [`archive_viewer.html`](archive_viewer.html)。https://gumingyu.github.io/toutiao-archive/archive_viewer.html 它是一个单文件静态网页，CSS、数据和 JavaScript 都写在这个 HTML 文件里，不需要安装依赖，也不需要构建。
 
 ## 功能
 
